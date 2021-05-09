@@ -1,2 +1,3 @@
-# samplestrings
-Collection of words and sentences
+# Sample Strings
+
+A collection of words that is useful to testing Japanese fonts.
